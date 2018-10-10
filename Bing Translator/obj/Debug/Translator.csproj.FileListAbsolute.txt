@@ -1,0 +1,10 @@
+C:\Users\elitniy\Desktop\Bing Translator\Bing Translator\bin\Debug\Translator.exe.config
+C:\Users\elitniy\Desktop\Bing Translator\Bing Translator\bin\Debug\Translator.exe
+C:\Users\elitniy\Desktop\Bing Translator\Bing Translator\bin\Debug\Translator.pdb
+C:\Users\elitniy\Desktop\Bing Translator\Bing Translator\obj\Debug\Translator.csprojAssemblyReference.cache
+C:\Users\elitniy\Desktop\Bing Translator\Bing Translator\obj\Debug\Translator.Form1.resources
+C:\Users\elitniy\Desktop\Bing Translator\Bing Translator\obj\Debug\Translator.Properties.Resources.resources
+C:\Users\elitniy\Desktop\Bing Translator\Bing Translator\obj\Debug\Translator.csproj.GenerateResource.cache
+C:\Users\elitniy\Desktop\Bing Translator\Bing Translator\obj\Debug\Translator.csproj.CoreCompileInputs.cache
+C:\Users\elitniy\Desktop\Bing Translator\Bing Translator\obj\Debug\Translator.exe
+C:\Users\elitniy\Desktop\Bing Translator\Bing Translator\obj\Debug\Translator.pdb
